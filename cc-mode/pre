@@ -5,5 +5,5 @@
  * `(buffer-file-name)`
  *
  *  Created on: `(format-time-string "%Y-%m-%d")`
- *      Author: `(user-full-name)` <`(user-email-address)`>
+ *      Author: `(user-full-name)` <`(user-mail-address)`>
  */
